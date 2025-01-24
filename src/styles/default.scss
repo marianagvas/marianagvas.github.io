@@ -1,0 +1,39 @@
+body,
+.v-theme--customLight,
+.v-theme--customLight.v-application {
+	font-family: lato-light, lato, sans-serif;
+	color: rgb(var(--v-theme-primary));
+}
+
+header {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+button.v-btn {
+	border-radius: 0px;
+	font-weight: 400;
+	font-family: lato-light, lato, sans-serif;
+
+	&:hover {
+		background-color: rgb(var(--v-theme-primary)) !important;
+		color: white !important;
+	}
+}
+
+span,
+div,
+.text-h4,
+.text-h5,
+.text-h6,
+.text-subtitle-1,
+.text-subtitle-2,
+.text-body-1,
+.text-body-2 {
+	font-family: lato-light, lato, sans-serif;
+}
+
+
+.silent-anchor {
+	text-decoration: none;
+	color: inherit;
+}
