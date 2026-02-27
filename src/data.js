@@ -250,13 +250,6 @@
           type: 'video',
           url: 'https://www.youtube.com/watch?v=289Mp5yLDBU',
           title: 'GESTO - REDOMA',
-          description: '1234',
-          autoplay: false,
-        },
-        {
-          type: 'video',
-          url: 'https://www.youtube.com/watch?v=289Mp5yLDBU',
-          title: 'GESTO - REDOMA',
           description: '',
           autoplay: false,
         },
