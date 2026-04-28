@@ -58,7 +58,7 @@ export default {
           <v-row class="ma-10">
             <v-col cols="12" lg="4">
               <v-row no-gutters>
-                <v-col cols="12" class="fill-height" v-html="displayBlockElement(data.branding.main)">
+                <v-col cols="12" class="fill-height" v-html="displayBlockElement(data.branding.main, '250px')">
                 </v-col>
                 <v-col cols="12">
                   <div>
@@ -69,7 +69,7 @@ export default {
                 </v-col>
               </v-row>
             </v-col>
-            <v-col cols="12" lg="8" class="fill-height" v-html="displayBlockElement(data.branding.secondary, '250px')">
+            <v-col cols="12" lg="8" class="fill-height" v-html="displayBlockElement(data.branding.secondary)">
             </v-col>
           </v-row>
 
