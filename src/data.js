@@ -2,8 +2,8 @@
   home: {
     featured: {
       type: 'video',
-      url: 'https://www.youtube.com/watch?v=lR3Qq50jhNg',
-      description: 'Tremor 25 - Official Aftermovie',
+      url: 'https://www.youtube.com/watch?v=FLVY3VOE9cE',
+      description: 'Tremor 23 - Official Aftermovie',
       autoplay: true,
     },
 
@@ -11,14 +11,14 @@
     documental: {
       main: {
         type: 'video',
-        url: 'https://www.youtube.com/watch?v=FLVY3VOE9cE',
-        title: 'Tremor 23 - Official Aftermovie',
+        url: 'https://www.youtube.com/watch?v=lR3Qq50jhNg',
+        title: 'Tremor 25 - Official Aftermovie',
         description: 'Official aftermovie for the music festival Tremor. Directing. First camera. Editing',
         autoplay: true,
       },
       secondary: {
         type: 'video',
-        url: 'https://youtu.be/wik5qY2A0-4?si=jzF-DkJBc9NFx4mK',
+        url: 'https://www.youtube.com/watch?v=wik5qY2A0-4',
         title: 'WOOL 25',
         description: 'Official aftermovie for the festival WOOL 25. Directing. Camera Operator. Editing.',
         autoplay: true,
@@ -28,14 +28,14 @@
     branding: {
      main: {
         type: 'video',
-        url: 'https://youtu.be/YwC2kPifL5I?si=Ovg9UrLX-JNB4y4q',
-        description: 'Docapesca - Nós Sempre Estivemos Aqui',
-        autoplay: true
+        url: 'https://www.youtube.com/watch?v=M166PnMcb5k',
+        description: 'Castelbel - Coleção Tiles',
+        autoplay: true,
       },
       secondary: {
         type: 'video',
-        url: 'https://www.youtube.com/watch?v=M166PnMcb5k',
-        description: 'Castelbel - Coleção Tiles',
+        url: 'https://www.youtube.com/watch?v=YwC2kPifL5I',
+        description: 'Docapesca - Nós Sempre Estivemos Aqui',
         autoplay: true
       },
     },
@@ -43,14 +43,14 @@
     music: {
       main: {
         type: 'video',
-        url: 'https://youtu.be/xx3DQq3_qRo?si=hmULYhGWHUnofHIq',
-        description: 'Rádio Faneca 25',
+        url: 'https://www.youtube.com/watch?v=289Mp5yLDBU',
+        description: 'Gesto',
         autoplay: true
       },
       secondary: {
         type: 'video',
-        url: 'https://www.youtube.com/watch?v=289Mp5yLDBU',
-        description: 'Gesto',
+        url: 'https://www.youtube.com/watch?v=xx3DQq3_qRo',
+        description: 'Rádio Faneca 25',
         autoplay: true
       },
     }
@@ -62,9 +62,107 @@
       media: [
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=FLVY3VOE9cE',
-          title: 'Tremor 23 - Official Aftermovie',
-          description: 'Official aftermovie for the music festival Tremor. Directing. First camera. Editing',
+          url: 'https://www.youtube.com/watch?v=wik5qY2A0-4',
+          title: 'WOOL 25',
+          description: 'Official aftermovie for the urban art festival WOOL. Directing. Camera Operator. Editing',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=xx3DQq3_qRo',
+          title: 'Rádio Faneca 25',
+          description: 'Official aftermovie for the cultural festival Rádio Faneca. Directing. Camera Operator. Editing',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=UVvpqNo5BkE',
+          title: 'Encontro MEXE 25',
+          description: 'Offical aftermovie for the cultural festival Encontro MEXE. Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=m6KCwmPoyJM',
+          title: 'Terra Incógnita 24',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=SLYFr4k4yTU',
+          title: 'Cruz Vermelha Portuguesa - Primeiros Socorros Psicológicos - LOOK',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=_yXqjhG8QKY',
+          title: 'Cruz Vermelha Portuguesa - Primeiros Socorros Psicológicos - LISTEN',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=antxx448ehk',
+          title: 'Cruz Vermelha Portuguesa - Primeiros Socorros Psicológicos - SELFCARE',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=DRcJtxLwlvQ',
+          title: 'Cruz Vermelha Portuguesa - Primeiros Socorros Psicológicos - LINK',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=COul_EHuGUo',
+          title: 'VIA VALONGO - THEIC',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=T7jp5XgRCHo',
+          title: 'MM | Coimbra x Mário Belém',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=qsManVZIeiQ',
+          title: '50 Anos Universidade de Aveiro',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=meGjXCxzl8k',
+          title: 'WOOL 24',
+          description: 'Official aftermovie for the festival WOOL 24. Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=KPoLdOSO4_4',
+          title: 'VIA VALONGO - Matthieu Pommier',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=txDgABqzsFo',
+          title: 'VIA VALONGO - Tiago Hesp',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: true,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=wMVXlN_U6HE',
+          title: 'Terra Incógnita 2023',
+          description: 'Directing. Camera Operator. Editing.',
           autoplay: true,
         },
         {
@@ -76,15 +174,22 @@
         },
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=pNEh741HwxI',
-          title: 'Instante Suspenso',
+          url: 'https://www.youtube.com/watch?v=X5wH5YzcVCI',
+          title: 'VIA VALONGO - Mariana Duarte Santos',
           description: 'Directing. Camera Operator. Editing.',
           autoplay: false,
         },
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=YfUr5UuZzF8',
-          title: 'Tremor 22 - Official Aftermovie',
+          url: 'https://www.youtube.com/watch?v=QcsCkyyh9BM',
+          title: 'VIA VALONGO - Perrine Honoré',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: false,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=pNEh741HwxI',
+          title: 'Instante Suspenso',
           description: 'Directing. Camera Operator. Editing.',
           autoplay: false,
         },
@@ -96,24 +201,52 @@
           autoplay: false,
         },
         {
-          type: 'image',
-          image: '/terra-incognita.webp',
-          url: '/terra-incognita',
-          title: 'Terra Incognita #01',
-          description: '',
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=449h2cCMc2I',
+          title: 'Terra Incógnita 22',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: false,
         },
         {
           type: 'video',
-          url: 'TODO',
+          url: 'https://www.youtube.com/watch?v=ZDjDOWop7XA',
           title: 'Esporo',
           description: 'Documental film about the cultural and artistic project Esporo, developed in several areas of the interior of Portugal.',
           autoplay: false,
         },
         {
           type: 'video',
-          url: 'TODO',
+          url: 'https://www.youtube.com/watch?v=BfLtIb8FHB0',
           title: 'Fazunchar 2022',
           description: 'Documental video on the urban art festival Fazcunchar, in Figueiró dos Vinhos, Portugal.',
+          autoplay: false,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=qsEwSiAr-6w',
+          title: 'Terra Incógnita 2021',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: false,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=ckjZmEWCGwY',
+          title: 'Terra Incógnita 2021',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: false,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=kbCxWIsUa8I',
+          title: 'VIA VALONGO - Ruído',
+          description: 'Directing. Camera Operator. Editing.',
+          autoplay: false,
+        },
+        {
+          type: 'video',
+          url: 'https://www.youtube.com/watch?v=64J52pqS-O0',
+          title: 'VIA VALONGO - João Varela',
+          description: 'Directing. Camera Operator. Editing.',
           autoplay: false,
         },
         {
@@ -122,13 +255,6 @@
           title: 'Bons Sons 19',
           description: '',
           autoplay: false,
-        },
-        {
-          type: 'image',
-          image: '/ruido.webp',
-          url: '/ruido',
-          title: 'Ruído',
-          description: '',
         },
       ]
     },
@@ -163,13 +289,6 @@
           title: 'WOOL 21',
           description: '',
           autoplay: false,
-        },
-        {
-          type: 'image',
-          image: '/nowalls.webp',
-          url: '/nowalls',
-          title: 'NO WALLS',
-          description: '',
         },
       ]
     }
