@@ -2,7 +2,7 @@
 Use `npm` though `yarn` should work for local deployment, though `npm`'s [package-lock.json](package-lock.json) should be used.
 ```bash
 # first steps
-npm run install
+npm install
 npm run dev
 
 # build and test locally
