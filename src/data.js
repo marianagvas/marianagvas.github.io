@@ -2,8 +2,8 @@
   home: {
     featured: {
       type: 'video',
-      url: 'https://www.youtube.com/watch?v=YfUr5UuZzF8',
-      description: 'Tremor 22 - Official Aftermovie',
+      url: 'https://youtu.be/lR3Qq50jhNg?si=5_-dlzLr7nOZfAuo',
+      description: 'Tremor 25 - Official Aftermovie',
       autoplay: true,
     },
 
@@ -18,37 +18,39 @@
       },
       secondary: {
         type: 'video',
-        url: 'https://www.youtube.com/watch?v=8oCwZLkmEcc',
-        title: 'WOOL 23',
-        description: 'Official aftermovie for the festival WOOL 23. Directing. Camera Operator. Editing.',
+        url: 'https://youtu.be/wik5qY2A0-4?si=jzF-DkJBc9NFx4mK',
+        title: 'WOOL 25',
+        description: 'Official aftermovie for the festival WOOL 25. Directing. Camera Operator. Editing.',
         autoplay: true,
       },
     },
 
     branding: {
-      main: {
-        type: 'image',
-        image: '/maat.webp',
-        url: '/maat'
+     main: {
+        type: 'video',
+        url: 'https://youtu.be/YwC2kPifL5I?si=Ovg9UrLX-JNB4y4q',
+        description: 'Docapesca - Nós Sempre Estivemos Aqui',
+        autoplay: true
       },
       secondary: {
-        type: 'image',
-        image: '/castelbel/castelbel01.webp',
-        url: '/castelbel'
-      }
+        type: 'video',
+        url: 'https://www.youtube.com/watch?v=M166PnMcb5k',
+        description: 'Castelbel - Coleção Tiles',
+        autoplay: true
+      },
     },
 
     music: {
       main: {
         type: 'video',
-        url: 'https://www.youtube.com/watch?v=11-3imQshAE',
-        description: 'MIMO 2022',
+        url: 'https://youtu.be/xx3DQq3_qRo?si=hmULYhGWHUnofHIq',
+        description: 'Rádio Faneca 25',
         autoplay: true
       },
       secondary: {
         type: 'video',
-        url: 'https://www.youtube.com/watch?v=7EFIad_l0IQ',
-        description: 'Retimbrar - Maçazinha',
+        url: 'https://www.youtube.com/watch?v=289Mp5yLDBU',
+        description: 'Gesto',
         autoplay: true
       },
     }
