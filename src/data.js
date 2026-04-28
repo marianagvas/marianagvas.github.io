@@ -2,7 +2,7 @@
   home: {
     featured: {
       type: 'video',
-      url: 'https://youtu.be/lR3Qq50jhNg?si=5_-dlzLr7nOZfAuo',
+      url: 'https://www.youtube.com/watch?v=lR3Qq50jhNg',
       description: 'Tremor 25 - Official Aftermovie',
       autoplay: true,
     },
