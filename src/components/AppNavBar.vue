@@ -6,7 +6,7 @@
           <v-app-bar-nav-icon variant="text" @click.stop="drawer=!drawer" class="d-md-none"></v-app-bar-nav-icon>
           <v-col cols="6">
             <a href="/" class="silent-anchor">
-              <div class="text-h4 font-weight-light">Mariana Vasconcelos</div>
+              <div class="site-title text-h4 font-weight-light">Mariana Vasconcelos</div>
               <div class="text-subtitle-1 font-weight-bold">freelance filmmaker</div>
             </a>
           </v-col>
@@ -57,6 +57,11 @@ button.v-btn.v-btn--density-default.white-btn {
     background-color: white !important;
     color: rgb(var(--v-theme-primary)) !important;
   }
+}
+
+.site-title {
+  font-size: clamp(1.6rem, 4vw, 2.4rem) !important;
+  line-height: 1.1;
 }
 
 </style>
