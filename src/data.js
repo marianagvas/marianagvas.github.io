@@ -1282,11 +1282,11 @@ export const embedUrl = (url, autoplay = false, mute = true) => {
 
 export const displayBlockElement = (block, height = '500px', autoplay = false, mute = true) => {
   if (block.type === 'video') {
-    return `<iframe frameborder="0" allowfullscreen=""
+    return `<div class="responsive-video"><iframe frameborder="0" allowfullscreen=""
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    width="100%" height="${height}"
+    width="100%" height="100%"
     title="${(block.title ?? "") + " " + (block.description ?? "")}"
-    src="${embedUrl(block.url, autoplay || block?.autoplay, mute)}"></iframe>`
+    src="${embedUrl(block.url, autoplay || block?.autoplay, mute)}"></iframe></div>`
   } else if (block.type === 'image') {
     const imgHtml = `<img width="100%" src="${block.image}" title="${(block.title ?? "") + " " + (block.description ?? "")}"/>`;
     if(block.url) {
