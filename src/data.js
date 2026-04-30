@@ -521,6 +521,13 @@
         },
         {
           type: 'video',
+          url: 'https://www.youtube.com/watch?v=7ImshBIjPbw',
+          title: 'Capicua - Tour Madrepérola - Teatro da Trindade',
+          description: 'Direction. Camera operation. Editing.',
+          autoplay: false,
+        },
+        {
+          type: 'video',
           url: 'https://www.youtube.com/watch?v=4uSdWhoZZLY',
           title: 'Videoteca Bodyspace 217 José Valente "Mastigando"',
           description: 'Direction. Camera operation. Editing.',
@@ -612,20 +619,26 @@
         },
         {
           type: 'video',
+          url: 'https://www.youtube.com/watch?v=Lgm42cIajLQ',
+          title: 'Intimissimi Uomo x Mens Health',
+          autoplay: false,
+        },
+        {
+          type: 'video',
           url: 'https://www.youtube.com/watch?v=nKbSqE8YfHg',
           title: 'Ettica Portugal',
           autoplay: false,
         },
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=TODO',
+          url: 'https://www.youtube.com/watch?v=CxDHa6Lpt34',
           title: 'Sr Cão e Dona Gata',
           autoplay: false,
         },
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=TODO',
-          title: 'I <3 Aveiro',
+          url: 'https://www.youtube.com/watch?v=moxXt-14lHY',
+          title: 'Associação Agora Aveiro - I <3 Aveiro',
           autoplay: false,
         },
       ]
@@ -655,8 +668,8 @@
         },
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=a9RnaH49zQM',
-          title: 'Castebel - Coleção Ruby Red',
+          url: 'https://www.youtube.com/watch?v=_MNOpW5bUzg',
+          title: 'Castebel - Coleção Cegonha',
           description: 'Direction. Camera operation. Editing.',
           autoplay: false,
         },
@@ -668,8 +681,8 @@
         },
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=TODO',
-          title: 'Adalberto + Mike Davis',
+          url: 'https://www.youtube.com/watch?v=M0X2aGo5Nnw',
+          title: 'Adalberto x Mike Davis',
           autoplay: false,
         },
       ]

@@ -7,7 +7,7 @@
           <v-col cols="6">
             <a href="/" class="silent-anchor">
               <div class="text-h4 font-weight-light">Mariana Vasconcelos</div>
-              <div class="text-subtitle-1 font-weight-bold">frelance filmmaker</div>
+              <div class="text-subtitle-1 font-weight-bold">freelance filmmaker</div>
             </a>
           </v-col>
           <v-spacer></v-spacer>
