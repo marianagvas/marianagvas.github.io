@@ -45,7 +45,7 @@ export default {
                 <v-col cols="12">
                   <div>
                     <div class="text-h4 font-weight-bold py-8 px-2">
-                      share your inspiring projets with others
+                      share your inspiring projects with others
                       through <a class="main-links" href="/documental">documentary</a>.
                     </div>
                   </div>
