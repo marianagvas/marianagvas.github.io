@@ -45,7 +45,7 @@ export default {
                 <v-col cols="12">
                   <div>
                     <div class="text-h4 font-weight-bold py-8 px-2">
-                      share your inspiring projects with others
+                      share your inspiring projets with others
                       through <a class="main-links" href="/documental">documentary</a>.
                     </div>
                   </div>
@@ -55,8 +55,8 @@ export default {
           </v-row>
 
           <!-- branding preview -->
-          <v-row class="ma-10">
-            <v-col cols="12" lg="4">
+          <v-row class="ma-10 branding-preview">
+            <v-col cols="12" lg="4" class="branding-main-col">
               <v-row no-gutters>
                 <v-col cols="12" class="fill-height" v-html="displayBlockElement(data.branding.main, '250px')">
                 </v-col>
@@ -69,7 +69,7 @@ export default {
                 </v-col>
               </v-row>
             </v-col>
-            <v-col cols="12" lg="8" class="fill-height" v-html="displayBlockElement(data.branding.secondary)">
+            <v-col cols="12" lg="8" class="fill-height branding-secondary-col" v-html="displayBlockElement(data.branding.secondary)">
             </v-col>
           </v-row>
 
@@ -110,5 +110,18 @@ export default {
 .main-links {
   color: white;
   text-decoration: underline;
+}
+
+@media (max-width: 959px) {
+  .branding-preview {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .branding-secondary-col {
+    order: 1;
+  }
+  .branding-main-col {
+    order: 2;
+  }
 }
 </style>
